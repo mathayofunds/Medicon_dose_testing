@@ -1,4 +1,4 @@
-# Medicon_dose_testing
+# Medicon Dose Testing
 
 Medicon, a pharmaceutical company, has manufactured the sixth batch (40,000 units) of COVID-19 vaccine doses. **This vaccine was clinically tested last quarter and around 200,000 doses have already been given to people in five batches.**
 
